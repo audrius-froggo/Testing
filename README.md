@@ -2,3 +2,5 @@ Testing
 =======
 
 Bandomoji repozicija
+
+JO
